@@ -1,0 +1,115 @@
+{
+  "booking": {
+    "square": "https://app.squareup.com/appointments/book/hnw331b20ayoka/LTMH9V4V33420/start",
+    "line": "https://lin.ee/82Gytmp"
+  },
+  "plans": [
+    {
+      "id": "memory-data",
+      "group": "memory",
+      "name": "記念撮影 データプラン",
+      "catch": "今日を残す。",
+      "price": 14000,
+      "count": 15,
+      "frame": false,
+      "facts": [
+        "屋外ロケーション撮影",
+        "厳選{count}枚をデータ納品",
+        "誕生日、入学・卒業、結婚記念、カップル、友人同士、愛犬との撮影などに対応"
+      ],
+      "recommend": "短時間で気軽に、今の姿を残したい方に。"
+    },
+    {
+      "id": "memory-frame",
+      "group": "memory",
+      "name": "記念撮影 額装プラン",
+      "catch": "大切な今日を、飾ろう。",
+      "price": 29000,
+      "count": 30,
+      "frame": true,
+      "badge": "七五三におすすめ",
+      "facts": [
+        "屋外ロケーション撮影",
+        "厳選{count}枚をデータ納品",
+        "お気に入りの写真1枚をA4サイズで額装",
+        "フレーム代・送料込み"
+      ],
+      "recommend": "自然な表情や、その日の出来事までしっかり残し、撮った写真を暮らしの中に飾りたい方に。"
+    },
+    {
+      "id": "memory-portrait",
+      "group": "memory",
+      "name": "記念ポートレート撮影",
+      "catch": "大切な人を、一枚の作品に。",
+      "price": 37000,
+      "count": 20,
+      "frame": true,
+      "duration": "約60分",
+      "facts": [
+        "龍ケ崎RINKのレンタルスペースで撮影",
+        "背景紙とライティングで、背景と光を整える撮影",
+        "背景紙は{backgrounds}から選択",
+        "1組{max_people}名まで",
+        "厳選{count}枚をデータ納品",
+        "お気に入りの写真1枚をA4サイズで額装",
+        "RINKの会場費・フレーム代・送料込み"
+      ],
+      "note": "お客様の撮影時間は{duration}です。会場は設営・撤収を含めて{venue_hours}時間確保します。",
+      "recommend": "人物そのものを、上質な記念写真として残したい方に。",
+      "max_people": 10,
+      "venue_hours": 3,
+      "backgrounds": [
+        "グレー",
+        "ホワイト"
+      ]
+    },
+    {
+      "id": "matching",
+      "group": "profile",
+      "name": "マッチングアプリ撮影",
+      "catch": "会いたくなる、はじめまして。",
+      "price": 20000,
+      "count": 30,
+      "frame": false,
+      "facts": [
+        "{count}枚をデータ納品",
+        "納品する{count}枚すべてに自然な肌補正",
+        "メイン写真とサブ写真に使える表情・構図を撮影",
+        "過度に容姿を変えず、実際に会ったときの印象から離れない仕上げ"
+      ],
+      "recommend": "初対面のきっかけに、自分らしい表情を伝えたい方に。"
+    },
+    {
+      "id": "profile-location",
+      "group": "profile",
+      "name": "ロケーションプロフィール撮影",
+      "catch": "いつもの自分を、伝わる一枚に。",
+      "price": 22000,
+      "count": 15,
+      "frame": false,
+      "duration": "30〜45分",
+      "facts": [
+        "屋外ロケーション撮影",
+        "厳選{count}枚をデータ納品",
+        "SNS、仕事、ホームページに使える自然なプロフィール写真"
+      ],
+      "recommend": "自然な表情のプロフィール写真を、必要な分だけそろえたい方に。"
+    },
+    {
+      "id": "profile-branding",
+      "group": "profile",
+      "name": "ブランディングプロフィール撮影",
+      "catch": "これからの仕事に、あなたらしさを。",
+      "price": 33000,
+      "count": 30,
+      "frame": false,
+      "duration": "60〜90分",
+      "facts": [
+        "厳選{count}枚をデータ納品",
+        "衣装変更可能",
+        "複数の表情・ポーズ・アングルを撮影"
+      ],
+      "recommend": "SNSや仕事で、継続的に使える写真をそろえたい方に。"
+    }
+  ]
+}
