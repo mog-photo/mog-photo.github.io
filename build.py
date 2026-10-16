@@ -34,7 +34,7 @@ def plan_card(p):
 <p class="plan-summary">{''.join(f'<span>{escape(v)}</span>' for v in summary)}</p>
 <ul class="plan-facts">{facts}</ul>{note}
 <p class="plan-recommend"><strong>こんな方に</strong>{escape(p['recommend'])}</p>
-<a class="button{' secondary' if not badge else ''}" href="#booking" aria-label="{escape(p['name'])}の予約・相談">予約・相談する <span aria-hidden="true">↗</span></a>
+<a class="button{' secondary' if not badge else ''}" href="{escape(p['square_url'], quote=True)}" aria-label="{escape(p['name'])}をSquareで予約する">このプランを予約する <span aria-hidden="true">↗</span></a>
 </article>'''
 
 def scene_image(key):

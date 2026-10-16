@@ -1,6 +1,6 @@
 {
   "booking": {
-    "square": "https://app.squareup.com/appointments/book/hnw331b20ayoka/LTMH9V4V33420/start",
+    "square": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services",
     "line": "https://lin.ee/82Gytmp"
   },
   "plans": [
@@ -8,6 +8,7 @@
       "id": "memory-data",
       "group": "memory",
       "name": "記念撮影 データプラン",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/N6UO6Z4A3QIRZ3D2TU6P6ZJS",
       "catch": "今日を残す。",
       "price": 14000,
       "count": 15,
@@ -23,6 +24,7 @@
       "id": "memory-frame",
       "group": "memory",
       "name": "記念撮影 額装プラン",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/W7NLC3RQMGIRBWXSXZNPQ5UO",
       "catch": "大切な今日を、飾ろう。",
       "price": 29000,
       "count": 30,
@@ -40,6 +42,7 @@
       "id": "memory-portrait",
       "group": "memory",
       "name": "記念ポートレート撮影",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/4NY3HXDW3AZB6UH5L7BRLTG5",
       "catch": "大切な人を、一枚の作品に。",
       "price": 37000,
       "count": 20,
@@ -67,6 +70,7 @@
       "id": "matching",
       "group": "profile",
       "name": "マッチングアプリ撮影",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/5ZFXS7EANIVRXZBQ3ERCQQ4N",
       "catch": "会いたくなる、はじめまして。",
       "price": 20000,
       "count": 30,
@@ -83,6 +87,7 @@
       "id": "profile-location",
       "group": "profile",
       "name": "ロケーションプロフィール撮影",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/ILS72CWYIV2L7ZRYO7YTSQSO",
       "catch": "いつもの自分を、伝わる一枚に。",
       "price": 22000,
       "count": 15,
@@ -99,6 +104,7 @@
       "id": "profile-branding",
       "group": "profile",
       "name": "ブランディングプロフィール撮影",
+      "square_url": "https://book.squareup.com/appointments/hnw331b20ayoka/location/LTMH9V4V33420/services/EWPPUTKWSCQRUR5PEUMYMC3Y",
       "catch": "これからの仕事に、あなたらしさを。",
       "price": 33000,
       "count": 30,
